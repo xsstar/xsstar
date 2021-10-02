@@ -9,7 +9,7 @@
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zzxirvoq2mn2guav4q2kyoe2be&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zzxirvoq2mn2guav4q2kyoe2be&cover_image=true&theme=novatorem)]()
 
 <hr>
 
