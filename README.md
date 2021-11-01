@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on web projects
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
 **havvaarslann@gmail.com** 
 
