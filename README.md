@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 **havvaarslann@gmail.com** 
 
-<hr>
+
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zzxirvoq2mn2guav4q2kyoe2be&cover_image=true&theme=novatorem)]() -->
 
@@ -38,6 +38,9 @@
 <a href="https://twitter.com/hvv_pol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hvvpol" height="30" width="40" /></a>
 <a href="https://www.instagram.com/havva.polatli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hvvpol" height="30" width="40" /></a>
 </p><hr>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{xsstar}/count.svg)
 
 
 
